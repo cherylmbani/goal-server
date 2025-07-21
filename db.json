@@ -1,0 +1,76 @@
+ {
+  "goals": [
+    {
+      "id": "1",
+      "name": "Wedding Fund",
+      "targetAmount": "8000",
+      "category": "Personal",
+      "deadline": "2026-12-31",
+      "savedAmount": 2000
+    },
+    {
+      "id": "2",
+      "name": "Moringa CyberSecurity Classes",
+      "targetAmount": "7000",
+      "category": "Education",
+      "deadline": "2026-10-18",
+      "savedAmount": 3000
+    },
+    {
+      "id": "3",
+      "name": "Startup Capital",
+      "targetAmount": 20000,
+      "category": "Business",
+      "deadline": "2026-01-05",
+      "savedAmount": 6000
+    },
+    {
+      "id": "4",
+      "name": "Car Purchase",
+      "targetAmount": 1000,
+      "category": "Personal",
+      "deadline": "2025-12-12",
+      "savedAmount": 2000
+    },
+    {
+      "id": "5",
+      "name": "Rent Deposit",
+      "targetAmount": "3500",
+      "category": "Housing",
+      "deadline": "2025-08-02",
+      "savedAmount": 2040
+    },
+    {
+      "id": "6",
+      "name": "Online Course Payment",
+      "targetAmount": "1000",
+      "category": "Education",
+      "deadline": "2025-06-30",
+      "savedAmount": 9000
+    },
+    {
+      "id": "e73c",
+      "name": "Book Purchase",
+      "targetAmount": 500,
+      "category": "Personal",
+      "deadline": "2025-08-12",
+      "savedAmount": 450
+    },
+    {
+      "id": "9c1b",
+      "name": "Sauti Sol Concert",
+      "targetAmount": "900",
+      "category": "Entertainment",
+      "deadline": "2025-12-10",
+      "savedAmount": 200
+    },
+    {
+      "id": "5c8d",
+      "name": "Nairobi City Marathon",
+      "targetAmount": "400",
+      "category": "Personal",
+      "deadline": "2025-07-29",
+      "savedAmount": 190
+    }
+  ]
+}
